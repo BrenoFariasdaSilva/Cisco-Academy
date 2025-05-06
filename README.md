@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Cisco-Academy.](https://github.com/BrenoFariasdaSilva/Cisco-Academy) <img src="https://github.com/BrenoFariasdaSilva/Cisco-Academy/blob/main/.assets/Icons/Cisco-Logo.svg"  width="3%" height="3%">
+# [Cisco-Academy.](https://github.com/BrenoFariasdaSilva/Cisco-Academy) <img src="https://github.com/BrenoFariasdaSilva/Cisco-Academy/blob/main/.assets/Icons/Cisco-Logo.svg"  width="4%" height="4%">
 
 </div>
 
