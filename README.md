@@ -71,24 +71,10 @@ cd Cisco-Academy
 ```
 
 ## Installation:
-* Programing Language:
-
-	* Manually:
-		```bash
-		# Programing Language:
-		sudo apt install program-language -y
-		```
-
-  * Using Makefile:
-    ```bash
-    make install
-    ```
-
-  * Using ShellScript:
-    ```bash
-    chmod +x install.sh
-    sudo ./install.sh
-    ```  
+* Cisco Packet Tracer:
+  1. Download the Cisco Packet Tracer from [Cisco Networking Academy](https://www.netacad.com/courses/packet-tracer) and install it on your system.
+  2. Follow the installation instructions provided by Cisco.
+  3. After installation, you can run Cisco Packet Tracer from the application menu or by using the command line.
 
 ## Run Programing Language Code:
 ```bash
