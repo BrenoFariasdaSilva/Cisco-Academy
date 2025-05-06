@@ -41,7 +41,7 @@ Project-Description.
   - [Setup](#setup)
     - [Clone the repository](#clone-the-repository)
   - [Installation:](#installation)
-  - [Run Programing Language Code:](#run-programing-language-code)
+  - [Run Packet Tracer Project (.pka, .pkt, .pksz, .pkz)](#run-packet-tracer-project-pka-pkt-pksz-pkz)
     - [Dependencies](#dependencies)
     - [Dataset - Optional](#dataset---optional)
   - [Usage](#usage)
@@ -76,10 +76,9 @@ cd Cisco-Academy
   2. Follow the installation instructions provided by Cisco.
   3. After installation, you can run Cisco Packet Tracer from the application menu or by using the command line.
 
-## Run Programing Language Code:
-```bash
-# Command here 
-```
+## Run Packet Tracer Project (.pka, .pkt, .pksz, .pkz)
+
+Openning Packet Tracer projects is straightforward. You can open the project by simply double-clicking on the `.pka`, `.pkt`, `.pksz`, or `.pkz` file, or you can open it from within Cisco Packet Tracer by navigating to `File > Open` and selecting the project file.
 
 ### Dependencies
 
