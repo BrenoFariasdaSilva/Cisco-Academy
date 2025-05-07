@@ -42,7 +42,6 @@ Project-Description.
     - [Clone the repository](#clone-the-repository)
   - [Installation:](#installation)
   - [Run Packet Tracer Project (.pka, .pkt, .pksz, .pkz)](#run-packet-tracer-project-pka-pkt-pksz-pkz)
-    - [Dataset - Optional](#dataset---optional)
   - [Usage](#usage)
   - [How to Cite?](#how-to-cite)
   - [Contributing](#contributing)
@@ -78,14 +77,6 @@ cd Cisco-Academy
 ## Run Packet Tracer Project (.pka, .pkt, .pksz, .pkz)
 
 Openning Packet Tracer projects is straightforward. You can open the project by simply double-clicking on the `.pka`, `.pkt`, `.pksz`, or `.pkz` file, or you can open it from within Cisco Packet Tracer by navigating to `File > Open` and selecting the project file.
-
-### Dataset - Optional
-
-1. Download the dataset from [WEBSITE-HERE]() and place it in this project directory `(/Cisco-Academy)` and run the following command:
-
-```bash
-make dataset
-```
 
 ## Usage
 
