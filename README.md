@@ -8,8 +8,8 @@
   
 ---
 
-Project-Description.
-  
+Comprehensive archive of activities, assessments, and practical assignments developed during my training in the Cisco Networking Academy. This repository includes configurations, simulations, and solutions related to topics such as Networking Fundamentals, Switching and Routing, Cybersecurity, and IT Essentials.
+
 ---
 
 </div>
@@ -49,7 +49,14 @@ Project-Description.
 
 ## Introduction
 
-Detailed project description.
+This repository serves as a structured and documented collection of all academic exercises, labs, and assessments completed throughout my journey in the [Cisco Networking Academy](https://www.netacad.com/). The content spans multiple modules and disciplines including:
+
+- **Networking Essentials**
+- **Routing & Switching**
+- **Cybersecurity Fundamentals**
+- **IT Essentials and Troubleshooting**
+
+Most of the exercises were developed using [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer), with project files (`.pkt`, `.pka`, `.pksz`, `.pkz`) included for direct use or reference. This archive may assist other learners, educators, or professionals seeking examples or practice material aligned with Cisco's certification path.
 
 ## Setup
 
