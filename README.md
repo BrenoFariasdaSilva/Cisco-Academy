@@ -37,7 +37,6 @@ Project-Description.
 - [Cisco-Academy. ](#cisco-academy-)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
-  - [Requirements](#requirements)
   - [Setup](#setup)
     - [Clone the repository](#clone-the-repository)
   - [Installation:](#installation)
@@ -51,10 +50,6 @@ Project-Description.
 ## Introduction
 
 Detailed project description.
-
-## Requirements
-
-Bullet points of the requirements.
 
 ## Setup
 
