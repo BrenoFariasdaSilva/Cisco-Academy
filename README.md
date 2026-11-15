@@ -26,7 +26,6 @@ Comprehensive archive of activities, assessments, and practical assignments deve
 ![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Cisco-Academy.svg)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Cisco-Academy)](https://github.com/BrenoFariasdaSilva/Cisco-Academy/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Cisco-Academy)](https://github.com/BrenoFariasdaSilva/Cisco-Academy)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Cisco-Academy)](https://github.com/BrenoFariasdaSilva/Cisco-Academy)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Cisco-Academy)](https://github.com/BrenoFariasdaSilva/Cisco-Academy/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Cisco-Academy)](https://github.com/BrenoFariasdaSilva/Cisco-Academy/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Cisco-Academy)](https://github.com/BrenoFariasdaSilva/Cisco-Academy/pulls)
