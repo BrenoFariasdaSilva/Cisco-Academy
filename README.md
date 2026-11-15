@@ -24,19 +24,6 @@ Comprehensive archive of activities, assessments, and practical assignments deve
 ![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Cisco-Academy)
 ![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Cisco-Academy)
 ![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Cisco-Academy.svg)
-
-</div>
-
-<div align="center">
-
-![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Cisco-Academy)
-![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Cisco-Academy/main)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Cisco-Academy)
-![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Cisco-Academy)
-![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Cisco-Academy)
-![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Cisco-Academy)
-![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Cisco-Academy)
-![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Cisco-Academy.svg)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Cisco-Academy)](https://github.com/BrenoFariasdaSilva/Cisco-Academy/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Cisco-Academy)](https://github.com/BrenoFariasdaSilva/Cisco-Academy)
 [![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Cisco-Academy)](https://github.com/BrenoFariasdaSilva/Cisco-Academy)
@@ -47,7 +34,6 @@ Comprehensive archive of activities, assessments, and practical assignments deve
 [![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Cisco-Academy/main)](https://github.com/BrenoFariasdaSilva/Cisco-Academy/commits)
 [![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Cisco-Academy?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Cisco-Academy/pulls?q=is%3Apr+is%3Amerged)
 ![GitHub Primary Language](https://img.shields.io/badge/language-TeX-3b82f6)
-
 ![Repobeats Statistics](https://repobeats.axiom.co/api/embed/91f0ffa2a6f7aa75022d5382c4e266b4bc400a24.svg)
 
 </div>
